@@ -1,0 +1,21 @@
+Please input the size of the grid: 3
+Please input the number of pokemons: 3
+  | 1 | 2 | 3 |
+----------------
+A | ~ | ~ | ~ |
+----------------
+B | ~ | ~ | ~ |
+----------------
+C | ~ | ~ | ~ |
+----------------
+
+Please input action: A1
+  | 1 | 2 | 3 |
+----------------
+A | ☺ | ☺ | ~ |
+----------------
+B | ☺ | ~ | ~ |
+----------------
+C | ~ | ~ | ~ |
+----------------
+You have scared away all the pokemons.

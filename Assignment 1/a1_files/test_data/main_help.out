@@ -1,0 +1,28 @@
+Please input the size of the grid: 3
+Please input the number of pokemons: 3
+  | 1 | 2 | 3 |
+----------------
+A | ~ | ~ | ~ |
+----------------
+B | ~ | ~ | ~ |
+----------------
+C | ~ | ~ | ~ |
+----------------
+
+Please input action: h
+h - Help.
+<Uppercase Letter><number> - Selecting a cell (e.g. 'A1')
+f <Uppercase Letter><number> - Placing flag at cell (e.g. 'f A1')
+:) - Restart game.
+q - Quit.
+
+  | 1 | 2 | 3 |
+----------------
+A | ~ | ~ | ~ |
+----------------
+B | ~ | ~ | ~ |
+----------------
+C | ~ | ~ | ~ |
+----------------
+
+Please input action: 

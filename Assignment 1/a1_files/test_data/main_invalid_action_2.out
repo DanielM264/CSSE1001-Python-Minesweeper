@@ -1,0 +1,23 @@
+Please input the size of the grid: 3
+Please input the number of pokemons: 3
+  | 1 | 2 | 3 |
+----------------
+A | ~ | ~ | ~ |
+----------------
+B | ~ | ~ | ~ |
+----------------
+C | ~ | ~ | ~ |
+----------------
+
+Please input action: 
+That ain't a valid action buddy.
+  | 1 | 2 | 3 |
+----------------
+A | ~ | ~ | ~ |
+----------------
+B | ~ | ~ | ~ |
+----------------
+C | ~ | ~ | ~ |
+----------------
+
+Please input action: 
